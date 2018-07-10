@@ -1,11 +1,8 @@
 #!/usr/bin/env python
 #-*-coding:utf-8-*-
-
 import os
-
 def derece():
 	return int(input("Kök'ün Derecesini Giriniz:"))
-	
 while True:
 	print("Kök Bulma Programı")
 	a = int(input("Bir Sayi Giriniz:"))
